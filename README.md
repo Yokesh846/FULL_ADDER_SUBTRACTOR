@@ -84,7 +84,7 @@ assign w3=(~w1&bin);
 assign df=w1^bin;
 assign bo=w2|w3;
 endmodule
-
+  
 Developed by: Yokeshwaran A
 
 RegisterNumber: 24900415
@@ -96,10 +96,7 @@ RegisterNumber: 24900415
 
 **Output Timing Waveform**
 
-![RTL view 4_1](https://github.com/user-attachments/assets/fb4727b2-acdf-44dd-8d60-f0eec552abd5)
-![RTL view 4_2](https://github.com/user-attachments/assets/699b5f22-de82-45ac-959c-46179c67fd07)
-
-
+![Screenshot ](https://github.com/user-attachments/assets/30027f4d-51eb-4053-b2bc-f4aa42724c88)
 
 **Result:**
 
